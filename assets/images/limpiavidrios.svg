@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6f5ff"/>
+      <stop offset="100%" stop-color="#f2f8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <rect x="235" y="120" width="130" height="190" rx="18" fill="#3a86ff"/>
+  <polygon points="285,60 315,60 365,120 235,120" fill="#265fba"/>
+  <circle cx="300" cy="210" r="34" fill="#bde0fe"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial" font-size="30" fill="#16324f">Limpiavidrios</text>
+</svg>

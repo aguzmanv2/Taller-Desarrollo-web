@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4fff5"/>
+      <stop offset="100%" stop-color="#e9fff0"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <rect x="210" y="170" width="180" height="110" rx="20" fill="#95d5b2"/>
+  <circle cx="250" cy="225" r="30" fill="#d8f3dc"/>
+  <circle cx="300" cy="225" r="30" fill="#d8f3dc"/>
+  <circle cx="350" cy="225" r="30" fill="#d8f3dc"/>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial" font-size="30" fill="#16324f">Accesorios</text>
+</svg>
